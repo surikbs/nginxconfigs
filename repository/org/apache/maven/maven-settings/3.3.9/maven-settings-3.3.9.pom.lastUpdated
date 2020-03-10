@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 17:49:28 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583842768671
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven\:maven-settings\:pom\:3.3.9 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Connect to artifactory.verifone.com\:443 [artifactory.verifone.com/10.70.52.71] failed\: Connection timed out\: connect
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583842767316
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583842746256
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven\:maven-settings\:pom\:3.3.9 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Connect to artifactory.verifone.com\:443 [artifactory.verifone.com/10.70.52.71] failed\: Connection timed out\: connect

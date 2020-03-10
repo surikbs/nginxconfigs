@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 17:50:14 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583842814436
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven\:maven-repository-metadata\:pom\:3.3.9 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: artifactory.verifone.com
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583842812960
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583842812942
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven\:maven-repository-metadata\:pom\:3.3.9 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: No such host is known (artifactory.verifone.com)

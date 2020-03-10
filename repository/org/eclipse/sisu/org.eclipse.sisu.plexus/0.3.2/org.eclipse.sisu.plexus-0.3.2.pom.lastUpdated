@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 17:50:15 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583842815621
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.eclipse.sisu\:org.eclipse.sisu.plexus\:pom\:0.3.2 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: artifactory.verifone.com
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583842815144
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583842815124
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.eclipse.sisu\:org.eclipse.sisu.plexus\:pom\:0.3.2 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: artifactory.verifone.com
