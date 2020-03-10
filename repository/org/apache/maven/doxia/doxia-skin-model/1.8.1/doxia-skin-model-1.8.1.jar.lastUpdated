@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 14:12:30 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583397750181
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-skin-model\:jar\:1.8.1 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/apache/maven/doxia/doxia-skin-model/1.8.1/doxia-skin-model-1.8.1.jar
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583397743584
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583397726310
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-skin-model\:jar\:1.8.1 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/apache/maven/doxia/doxia-skin-model/1.8.1/doxia-skin-model-1.8.1.jar

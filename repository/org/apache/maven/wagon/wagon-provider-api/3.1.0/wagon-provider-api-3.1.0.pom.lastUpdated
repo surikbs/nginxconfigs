@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 14:11:23 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583397683302
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-provider-api\:pom\:3.1.0 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/apache/maven/wagon/wagon-provider-api/3.1.0/wagon-provider-api-3.1.0.pom
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583397682988
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583397681228
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-provider-api\:pom\:3.1.0 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Connect to artifactory.verifone.com\:443 [artifactory.verifone.com/10.70.52.71] failed\: Connection timed out\: connect

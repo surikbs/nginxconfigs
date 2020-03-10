@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:33:10 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583384590124
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact net.java.dev.jna\:jna\:jar\:3.4.0 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583384578741
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583384572284
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact net.java.dev.jna\:jna\:jar\:3.4.0 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar

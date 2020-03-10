@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:13:23 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583383403043
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:pom\:3.0.17 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383402674
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583383400980
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:pom\:3.0.17 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom

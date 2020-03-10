@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:25:54 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583384154651
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.mozilla\:rhino\:jar\:1.7R4 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583384090953
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583384020362
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.mozilla\:rhino\:jar\:1.7R4 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar

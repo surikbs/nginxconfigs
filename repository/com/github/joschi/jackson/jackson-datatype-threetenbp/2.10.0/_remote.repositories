@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 12:09:25 IST 2020
+jackson-datatype-threetenbp-2.10.0.jar>central=
+jackson-datatype-threetenbp-2.10.0.pom>central=
+jackson-datatype-threetenbp-2.10.0-sources.jar>central=

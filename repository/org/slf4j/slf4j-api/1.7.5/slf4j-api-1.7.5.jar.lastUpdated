@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 14:12:29 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583397749958
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.5 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583397743485
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583397726195
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.5 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar

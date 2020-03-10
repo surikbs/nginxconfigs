@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:09:48 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583383188733
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact io.swagger.parser.v3\:swagger-parser-v3\:pom\:2.0.14 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/io/swagger/parser/v3/swagger-parser-v3/2.0.14/swagger-parser-v3-2.0.14.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383188022
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583383186329
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact io.swagger.parser.v3\:swagger-parser-v3\:pom\:2.0.14 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/io/swagger/parser/v3/swagger-parser-v3/2.0.14/swagger-parser-v3-2.0.14.pom

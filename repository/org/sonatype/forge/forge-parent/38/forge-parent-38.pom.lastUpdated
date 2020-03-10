@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:14:01 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583383441863
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.sonatype.forge\:forge-parent\:pom\:38 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/sonatype/forge/forge-parent/38/forge-parent-38.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383441500
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583383439794
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.sonatype.forge\:forge-parent\:pom\:38 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/sonatype/forge/forge-parent/38/forge-parent-38.pom

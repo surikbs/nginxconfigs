@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:05:08 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583382908224
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.8 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583382907791
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583382905470
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583382904987
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583382906077
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.8 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom

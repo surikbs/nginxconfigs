@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 11:55:41 IST 2020
+jackson-dataformat-yaml-2.9.6-sources.jar>central=
+jackson-dataformat-yaml-2.9.6.jar>central=
+jackson-dataformat-yaml-2.9.6.pom>central=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:05:37 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583382937529
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:2.0.4.RELEASE from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.pom
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583382937187
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583382935440
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:2.0.4.RELEASE from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.pom

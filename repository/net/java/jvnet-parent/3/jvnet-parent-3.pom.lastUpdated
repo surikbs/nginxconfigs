@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 28 08:27:58 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1582858678114
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1582858676219
+https\://repo.spring.io/snapshot/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1582858677775
+https\://repo.spring.io/snapshot/.lastUpdated=1582858676702
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

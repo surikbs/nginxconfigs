@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 12:06:13 IST 2020
+org.eclipse.sisu.plexus-0.3.0-sources.jar>central=
+org.eclipse.sisu.plexus-0.3.0.jar>central=
+org.eclipse.sisu.plexus-0.3.0.pom>central=

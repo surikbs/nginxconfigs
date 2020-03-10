@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:27:23 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583384243671
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact ch.ethz.ganymed\:ganymed-ssh2\:pom\:build210 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583384243297
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583384241586
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact ch.ethz.ganymed\:ganymed-ssh2\:pom\:build210 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.pom

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 14:03:14 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583397194791
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit4\:jar\:2.12.4 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583397194064
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583397192124
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit4\:jar\:2.12.4 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar

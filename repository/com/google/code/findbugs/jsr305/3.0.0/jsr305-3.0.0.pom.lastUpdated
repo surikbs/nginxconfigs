@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:10:41 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583383241103
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:pom\:3.0.0 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383240708
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583383239004
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:pom\:3.0.0 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.pom

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:54:06 IST 2020
+org.jacoco.agent-0.7.5.201505241946-runtime.jar>central=
+org.jacoco.agent-0.7.5.201505241946.pom>central=

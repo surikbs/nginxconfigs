@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:07:57 IST 2020
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1583383077277
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.openjfx\:javafx.base\:pom\:11.0.0-20180702.224858-3 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/openjfx/javafx.base/11.0.0-SNAPSHOT/javafx.base-11.0.0-20180702.224858-3.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383076729

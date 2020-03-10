@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 10:18:00 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583383680539
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact com.googlecode.libphonenumber\:libphonenumber\:pom\:8.0.0 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.pom
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583383680143
+9a5e3e7c1359b765b3bbe15e805b971456157b2b@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583383678445
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact com.googlecode.libphonenumber\:libphonenumber\:pom\:8.0.0 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.pom

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 14:07:23 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583397443996
+https\://artifactory.verifone.com/artifactory/rd-snapshots/.error=Could not transfer artifact org.apache.maven.scm\:maven-scm-providers-git\:pom\:1.10.0 from/to snapshots (https\://artifactory.verifone.com/artifactory/rd-snapshots)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-snapshots/org/apache/maven/scm/maven-scm-providers-git/1.10.0/maven-scm-providers-git-1.10.0.pom
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-snapshots-https\://artifactory.verifone.com/artifactory/rd-snapshots/.lastUpdated=1583397443673
+7a90414e28a0b5304d755cdda2a386586e1bc266@default-verifone-https\://artifactory.verifone.com/artifactory/rd-repositories/.lastUpdated=1583397441901
+https\://artifactory.verifone.com/artifactory/rd-repositories/.error=Could not transfer artifact org.apache.maven.scm\:maven-scm-providers-git\:pom\:1.10.0 from/to verifone (https\://artifactory.verifone.com/artifactory/rd-repositories)\: Access denied to\: https\://artifactory.verifone.com/artifactory/rd-repositories/org/apache/maven/scm/maven-scm-providers-git/1.10.0/maven-scm-providers-git-1.10.0.pom
